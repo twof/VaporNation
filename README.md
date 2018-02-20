@@ -1,4 +1,4 @@
-# ThisWeekInVapor
+# VaporNation
 Weekly Vapor news, mostly detailing beta development
 
 * [Week 0](https://twof.github.io/VaporNation/week0-18-01-21)
