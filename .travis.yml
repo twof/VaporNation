@@ -1,7 +1,17 @@
 language: ruby
-cache: bundler
+cache:
+  bundler: true
+  pip: true
+  directories:
+    - "node_modules"
 rvm: 2.4.1
+node: 8
+python: 3.4
 before_script:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y aspell aspell-en
+  - pip install --user -r proselint
+  - npm install -g orta/node-markdown-spellcheck
   - bundle install
 script:
   - bundle exec danger
