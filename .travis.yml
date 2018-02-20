@@ -10,7 +10,7 @@ python: 3.4
 before_script:
   - sudo apt-get -qq update
   - sudo apt-get install -y aspell aspell-en
-  - pip install --user -r proselint
+  - pip install --user proselint
   - npm install -g orta/node-markdown-spellcheck
   - bundle install
 script:
