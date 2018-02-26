@@ -17,4 +17,3 @@ script:
   - bundle exec danger
 notifications:
   email: false
-

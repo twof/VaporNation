@@ -23,4 +23,3 @@ end
 prose.ignored_words = ignored_words
 prose.lint_files markdown_files
 prose.check_spelling markdown_files
-
