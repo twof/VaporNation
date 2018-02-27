@@ -1,25 +1,28 @@
-# Spellchecker is kind of silly
-# Need to tell it to ignore numbers like this
-# Do I feel ashamed? Yes
-# Will it stop working in 1.88 years? Yes
-# But does it work now? Hell yes
-
-vapor
-Vapor
-SQLite
-Debuggable
-twof
-0xTim
-SandorDobi
-MaximBazarov
-John-Connolly
-gperdomor
-bensyverson
-Cellane
-MySQL
+# Vapor-related
+api-template
+auth
+debuggable
 RoutingGroup
 RoutingGroups
-microtutorial
-vapor-nation
+vapor
 VaporNation
+vapor-nation
+web-template
 
+# Technologies
+mongo
+mongodb
+mysql
+sqlite
+
+# Usernames
+0xTim
+bensyverson
+calebkleveter
+Cellane
+gperdomor
+gwynne
+John-Connolly
+MaximBazarov
+SandorDobi
+twof
