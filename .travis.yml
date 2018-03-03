@@ -11,7 +11,7 @@ before_script:
   - sudo apt-get -qq update
   - sudo apt-get install -y aspell aspell-en
   - pip install --user proselint
-  - npm install -g orta/node-markdown-spellcheck
+  - npm install -g Cellane/node-markdown-spellcheck
   - bundle install
 script:
   - bundle exec danger
