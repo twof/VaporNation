@@ -21,5 +21,8 @@ File.open('.spelling').each_line do |line|
 end
 
 prose.ignored_words = ignored_words
+prose.ignore_numbers = true
+prose.ignore_acronyms = true
+prose.language = "en-us"
 prose.lint_files markdown_files
 prose.check_spelling markdown_files

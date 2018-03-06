@@ -23,7 +23,7 @@ GEM
       no_proxy_fix
       octokit (~> 4.7)
       terminal-table (~> 1)
-    danger-prose (2.0.5)
+    danger-prose (2.0.7)
       danger
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
