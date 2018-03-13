@@ -8,3 +8,4 @@ Weekly Vapor news, mostly detailing beta development
 * [Week 3](https://twof.github.io/VaporNation/week3-18-02-12)
 * [Week 4](https://twof.github.io/VaporNation/week4-18-02-19)
 * [Week 5](https://twof.github.io/VaporNation/week5-18-02-26)
+* [Week 6](https://twof.github.io/VaporNation/week6-18-03-05)
