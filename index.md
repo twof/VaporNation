@@ -5,3 +5,4 @@
 * [Week 4](https://twof.github.io/VaporNation/week4-18-02-19)
 * [Week 5](https://twof.github.io/VaporNation/week5-18-02-26)
 * [Week 6](https://twof.github.io/VaporNation/week6-18-03-05)
+* [Week 7](https://twof.github.io/VaporNation/week7-18-03-12)
