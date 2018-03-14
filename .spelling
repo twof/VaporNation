@@ -24,6 +24,10 @@ mysql
 sqlite
 xcode
 PostgreSQL
+bugfixes
+async
+repo
+structs
 
 # Usernames
 0xTim
@@ -42,3 +46,4 @@ pedantix
 
 # Names
 Lasek
+Maurer
