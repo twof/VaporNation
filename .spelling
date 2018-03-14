@@ -14,6 +14,7 @@ vapor
 VaporNation
 vapor-nation
 web-template
+templating
 
 # Technologies
 iOS
@@ -22,6 +23,11 @@ mongodb
 mysql
 sqlite
 xcode
+PostgreSQL
+bugfixes
+async
+repo
+structs
 
 # Usernames
 0xTim
@@ -34,3 +40,10 @@ John-Connolly
 MaximBazarov
 SandorDobi
 twof
+siemensikkema
+MrMage
+pedantix
+
+# Names
+Lasek
+Maurer
