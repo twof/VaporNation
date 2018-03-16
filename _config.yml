@@ -4,4 +4,4 @@ plugins:
 
 kramdown:
   parse_block_html: true
-port: 8080
+port: 4000
