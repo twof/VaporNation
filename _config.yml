@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+
+kramdown:
+  parse_block_html: true
+port: 8080
