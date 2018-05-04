@@ -15,6 +15,15 @@ VaporNation
 vapor-nation
 web-template
 templating
+DatabaseKit
+Crypto
+MySQLDatabaseConfig
+WebSocket
+EventLoop
+ByteBuffer
+QueueHandler
+NestedData
+ContentTag
 
 # Technologies
 iOS
@@ -28,6 +37,8 @@ bugfixes
 async
 repo
 structs
+Laravel
+inout
 
 # Usernames
 0xTim
@@ -43,7 +54,21 @@ twof
 siemensikkema
 MrMage
 pedantix
+kikettas
+grundoon
+natebird
+pvels
+joscdk
+givip
+vkill
+jseibert
+frivas
 
 # Names
 Lasek
 Maurer
+Mihael
+Condon
+Ranti
+
+#Misc
