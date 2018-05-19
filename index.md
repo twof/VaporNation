@@ -10,4 +10,5 @@ layout: default
 * [Week 6](https://twof.github.io/VaporNation/week6-18-03-05)
 * [Week 7](https://twof.github.io/VaporNation/week7-18-03-12)
 * [Week 14](https://twof.github.io/VaporNation/week14-18-05-03)
-* [Week 15](https://twof.github.io/VaporNation/week15-18-05-18)
+* [Week 15](https://twof.github.io/VaporNation/week15-18-05-11)
+* [Week 16](https://twof.github.io/VaporNation/week16-18-05-18)
