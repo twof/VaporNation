@@ -15,3 +15,4 @@ Weekly Vapor news
 * [Week 16](https://twof.github.io/VaporNation/week16-18-05-18)
 * [Week 17](https://twof.github.io/VaporNation/week17-18-05-25)
 * [Week 18](https://twof.github.io/VaporNation/week18-18-06-02)
+* [Week 19](https://twof.github.io/VaporNation/week19-18-06-08)
